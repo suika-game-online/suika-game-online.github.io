@@ -11,7 +11,6 @@ Play Suika Game (Watermelon Game) online for free! Drop and merge juicy fruits t
 - **Arrow Arena - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/arrow-arena
 - **Beast Clash - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/beast-clash
 - **Block Blast - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/block-blast
-- **Blockudoku - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/blockudoku
 - **Bottle Hop - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/bottle-hop
 - **Brainrot Park - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/brainrot-park
 - **Cheat or Repeat - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/cheat-or-repeat
