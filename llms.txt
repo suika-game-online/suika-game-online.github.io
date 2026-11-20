@@ -11,6 +11,7 @@ Play Suika Game (Watermelon Game) online for free! Drop and merge juicy fruits t
 - **Arrow Arena - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/arrow-arena
 - **Beast Clash - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/beast-clash
 - **Block Blast - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/block-blast
+- **Boba Tea Merge - Play Free Online**: https://suika-game-online.github.io/game/boba-tea-merge
 - **Bottle Hop - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/bottle-hop
 - **Brainrot Park - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/brainrot-park
 - **Cheat or Repeat - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/cheat-or-repeat
@@ -25,6 +26,7 @@ Play Suika Game (Watermelon Game) online for free! Drop and merge juicy fruits t
 - **Fish Quest - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/fish-quest
 - **Flappy Bird - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/flappy-bird
 - **Friday Night Funkin - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/friday-night-funkin
+- **Frostbound Dash: Snow Race - Play Free Online**: https://suika-game-online.github.io/game/frostbound-dash
 - **Geo Dash - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/geo-dash
 - **Suika Game - Play Free Watermelon Merge Game Online** (Featured Game): https://suika-game-online.github.io/
 - **Jewel Block Puzzle - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/jewel-block-puzzle
