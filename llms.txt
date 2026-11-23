@@ -32,12 +32,14 @@ Play Suika Game (Watermelon Game) online for free! Drop and merge juicy fruits t
 - **Jewel Block Puzzle - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/jewel-block-puzzle
 - **Mall Fury - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/mall-fury
 - **Melon Sandbox - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/melon-sandbox
+- **Merge Lagoon - Play Free Online**: https://suika-game-online.github.io/game/merge-lagoon
 - **Monkey Mart - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/monkey-mart
 - **Poor Bunny - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/poor-bunny
 - **Ragdoll Hit - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/ragdoll-hit
 - **Scooby Doo Creepy Run - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/scooby-doo-creepy-run
 - **Sky Dart - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/sky-dart
 - **Soyjak Siege - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/soyjak-siege
+- **Sprunki: Merge Baby Sprunki - Play Free Online**: https://suika-game-online.github.io/game/sprunki-merge-baby-sprunki
 - **Sticky Ball 64 - Play Free Online**: https://suika-game-online.github.io/game/sticky-ball-64
 - **Stumble Race - Play Free Online on Suika Game Online**: https://suika-game-online.github.io/game/stumble-race
 - **Suika Game (Watermelon Game) - Play Free Online**: https://suika-game-online.github.io/game/suika-game
